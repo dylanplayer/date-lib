@@ -1,6 +1,6 @@
 {
   "name": "@dylanplayer/date-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick is a CLI that allows you to easily manage cloned repositories.",
   "main": "dist/index.js",
   "dependencies": {
